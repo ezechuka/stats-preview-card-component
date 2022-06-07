@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor](https://www.frontendmentor.io/solutions/responsive-stats-component-preview-with-flexbox-k1e_ac_FKK)
+- Live Site URL: [Netlify](https://stats-component-preview.netlify.app/)
 
 ## My process
 
