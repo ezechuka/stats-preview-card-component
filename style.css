@@ -91,16 +91,14 @@ html {
 .stats-card .right-content {
   flex: 1.2;
   display: flex;
-  z-index: 1;
   background: var(--primary-accent);
-  mix-blend-mode: overlay;
-  border-bottom-right-radius: 8px;
   border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
 }
 
 .right-content img {
-  border-bottom-right-radius: 8px;
-  border-top-right-radius: 8px;
+  mix-blend-mode: multiply;
+  opacity: 0.8;
 }
 
 @media (max-width: 768px) {
@@ -140,6 +138,9 @@ html {
 
   .stats-card .right-content {
     width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 0px;
   }
 
   .right-content img {
